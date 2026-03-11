@@ -1,11 +1,10 @@
 import React from "react";
 import "./SliferCard.css";
-
+import slifer from "../assets/10000020.webp";
 
 function SliferCard() {
   return (
     <section className="slifer-section">
-
       <div className="slifer-container">
 
         <div className="slifer-image">
@@ -51,7 +50,6 @@ function SliferCard() {
         </div>
 
       </div>
-
     </section>
   );
 }

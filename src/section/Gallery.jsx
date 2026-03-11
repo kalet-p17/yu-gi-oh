@@ -5,7 +5,8 @@ import { reliquia } from '../data/reliquia';
 export default function Gallery() {
     return (
         <section className="testimonial-section">
-            <h2 className="testimonial-title">Lo que dicen nuestros huéspedes</h2>
+            <h2 className="testimonial-title">LA REJILLA DE RELIQUIAS</h2>
+            <h2 className="testimonial-subtitle">Descubre nuestra colección de reliquias</h2>
             <div className="testimonial-container">
                 {reliquia.map((items) => (
                     <div key={items.id} className="testimonial-card">
