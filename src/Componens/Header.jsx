@@ -23,7 +23,7 @@ function App() {
       </header>
       <main className="main">
         <section className="left">
-          <p className="phase">PHASE 01: LOCAL DOMINION</p>
+          <p className="phase">FASE 01: MERCADO LOCAL</p>
           <h1>
             EL PORTAL <br />
             <span>DUAL</span>
@@ -35,7 +35,7 @@ function App() {
           <button className="btn-main">Ver Cartas Locales </button>
         </section>
         <section className="right">
-          <p className="phase">PHASE 02: GLOBAL CARTOGRAPHY</p>
+          <p className="phase">FASE 02: MERCADO GLOBAL</p>
           <h1>
             MERCADO <br />
             <span>GLOBAL</span>

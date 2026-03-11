@@ -1,0 +1,50 @@
+.footer{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:30px 60px;
+background:#0c1117;
+color:white;
+font-family:Arial;
+border-top:1px solid rgba(255,200,0,0.1);
+}
+
+.footer-left{
+display:flex;
+align-items:center;
+gap:10px;
+font-weight:bold;
+}
+
+.logo{
+color:#f3c94a;
+font-size:20px;
+}
+
+.footer-center{
+display:flex;
+gap:40px;
+font-size:12px;
+}
+
+.footer-center a{
+text-decoration:none;
+color:#7a8ba1;
+}
+
+.footer-center a:hover{
+color:#f3c94a;
+}
+
+.footer-right{
+display:flex;
+gap:10px;
+}
+
+.footer-right button{
+background:transparent;
+border:1px solid #444;
+color:white;
+padding:8px 10px;
+cursor:pointer;
+}
