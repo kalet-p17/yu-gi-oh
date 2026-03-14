@@ -9,6 +9,10 @@ font-family:Arial, Helvetica, sans-serif;
 body{
 background:#0b0b0b;
 color:white;
+background-image: url("https://wallpapers.com/images/high/yugioh-dragon-battle-g8gzvfujf6b79nav.webp");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
 }
 
 .header{

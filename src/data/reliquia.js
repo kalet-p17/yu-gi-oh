@@ -54,4 +54,10 @@ export const reliquia = [
         name:"Kuriboh Alado",
         description:"ATK: 300 DEF: 200"
     },
+     {
+        id:10,
+        url:"https://ygomjson.untapped.gg/art/full/en-us/512/lob/74677427.webp",
+        name:"Dragón Negro de Ojos Rojos",
+        description:"ATK: 2400 DEF: 2000"
+    },
 ]

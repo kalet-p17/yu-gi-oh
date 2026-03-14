@@ -8,7 +8,7 @@
 
 
 .testimonial-section{
-  background-image: url("/src/assets/YuGiOh.webp");
+  background-image: url("https://images6.alphacoders.com/499/thumb-1920-499121.jpg");
   background-size: cover;
   background-position: center;
   object-fit: cover;
@@ -20,12 +20,12 @@
 .testimonial-title{
   font-size:2rem;
   margin-bottom:40px;
-  color:#222;
+  color:#fcf9f9;
 }
 .testimonial-subtitle{
   font-size:1.2rem;
   margin-bottom:20px;
-  color:#080808;
+  color:#fcfafa;
   letter-spacing:2px;
 }
 
@@ -63,12 +63,12 @@
 .testimonial-name{
   font-size:1.2rem;
   margin-bottom:10px;
-  color:#111;
+  color:#fcfafa;
 }
 
 .reliquias-comment{
   font-size:0.95rem;
-  color:#555;
+  color:#f3f2f2;
 }
 
 
